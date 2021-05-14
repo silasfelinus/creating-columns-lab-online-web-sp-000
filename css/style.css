@@ -48,9 +48,9 @@ img:hover {
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
-  display: inline-block;
-  vertical-align: left;
-  width: 33.33%;
+  display: flex;
+  justify-content: space-between;
+  width: 33.35;
 
 }
 
