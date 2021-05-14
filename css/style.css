@@ -53,7 +53,7 @@ img:hover {
 }
 .grid {
   display: grid;
-grid-template-columns: 1fr 1fr 1fr;
+grid-template-columns: auto-fill;
 grid-gap: 0;
 justify-content: space-between;
 }
