@@ -53,9 +53,9 @@ img:hover {
 }
 .grid {
   display: grid;
-grid-template-columns: auto-fill;
-grid-gap: 0;
-justify-content: space-between;
+  grid-template-columns: auto-fill;
+  grid-gap: 0;
+  justify-content: space-between;
 }
 
 /* create your tile classes! we recommend .small .med .large */
