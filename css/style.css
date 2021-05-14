@@ -50,6 +50,7 @@ img:hover {
 .column {
   display: flex;
   flex-direction: row;
+    flex-wrap: wrap;
 
   width: 33.33%;
 
